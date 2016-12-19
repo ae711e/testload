@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
       // write your code here
       new lr().setVisible(true);
-      System.out.println("Output to console");
+      System.out.println("Output to console.");
     }
     
 }
