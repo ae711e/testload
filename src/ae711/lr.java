@@ -6,9 +6,10 @@ import java.awt.event.*;
 import java.io.*;
 
 
-/**
- * Created by ae711 on 19.12.2016.
+/*
+  Created by ae711 on 19.12.2016.
  */
+
 public class lr extends JFrame {
   public lr() {
     super("Resource local loading example");
