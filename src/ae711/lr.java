@@ -1,4 +1,4 @@
-package ae999.narod.ru;
+package ae711;
 
 import javax.swing.*;
 import java.awt.*;
@@ -7,7 +7,7 @@ import java.io.*;
 
 
 /**
- * Created by ae on 19.12.2016.
+ * Created by ae711 on 19.12.2016.
  */
 public class lr extends JFrame {
   public lr() {
